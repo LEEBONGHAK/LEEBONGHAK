@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LEEBONGHAK
 - 👀 I’m interested in ... blockchain, AR, VR, 3D Modeling, AI
-- 🌱 I’m currently learning ... Python(django), C, HTML, CSS(SASS, tailwindCSS), JS
+- 🌱 I’m currently learning ... Python(django), C, HTML, CSS(SASS, tailwindCSS), JS(Vanilla JS, React JS), Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email
 
