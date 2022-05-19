@@ -34,27 +34,27 @@ Here are some ideas to get you started:
 
 ### Languages
 
-[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)]() [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)]() [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
+[![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/LEEBONGHAK/kokoa-clone-2021) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/LEEBONGHAK/kokoa-clone-2021) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
 <br>
 
-[![C](https://img.shields.io/badge/C-1572B6?style=flat-square&logo=c&logoColor=white)]() [![C++](https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=cplusplus&logoColor=white)]() [![Python](https://img.shields.io/badge/Python-1F4260?style=flat-square&logo=Python&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-1572B6?style=flat-square&logo=c&logoColor=white)]() [![C++](https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/LEEBONGHAK/BAEKJOON_Cpp) [![Python](https://img.shields.io/badge/Python-1F4260?style=flat-square&logo=Python&logoColor=white)]()
 <br>
 
-[![Go](https://img.shields.io/badge/Go-007D9C?style=flat-square&logo=Go&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-007D9C?style=flat-square&logo=Go&logoColor=white)](https://github.com/LEEBONGHAK/job_scrapper)
 <br><br><br>
 
 ### FrameWroks
 
-[![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)]() [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
+[![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/LEEBONGHAK/fokin-weather) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/LEEBONGHAK/learning-nodeJS)
 <br>
 
-[![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=Django&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=Django&logoColor=white)](https://github.com/LEEBONGHAK/AirBnB-Clone)
 <br>
 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 <br>
 
-[![hyperledger fabric](https://img.shields.io/badge/HyperledgerFabric-000000?style=flat-square&logoColor=white)]()
+[![hyperledger fabric](https://img.shields.io/badge/HyperledgerFabric-000000?style=flat-square&logoColor=white)](https://github.com/LEEBONGHAK/ArtWork)
 <br><br><br>
 
 
