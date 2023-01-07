@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=header&text=LeeBongHak😀&fontSize=70)
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEBONGHAK&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=true)](https://hits.seeyoufarm.com)  
-  
-</div>
-
 <!-- ## Techs
 
 ### Languages
@@ -63,19 +57,30 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 <br><br><br> -->
 
-## Blog or Something
 
-[![Tech Blog](https://img.shields.io/badge/Velog-6DB33F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@octo__)](https://velog.io/@octo__) [![Gmail](https://img.shields.io/badge/dlqhdgkr456@gmail.com-F80000?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.dlqhdgkr456@gmail.com) [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/bonghaklee/)](https://www.linkedin.com/in/bonghaklee/)
-<br>
-
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-6DB33F?style=flat-square&logoColor=white&&link=https://solved.ac/profile/octopus96)](https://solved.ac/profile/octopus96) [![BAEKJOON](https://img.shields.io/badge/BAEKJOON-000000?style=flat-square&logoColor=white&link=https://www.acmicpc.net/user/octopus96)](https://www.acmicpc.net/user/octopus96) 
-<br><br><br>
-
-## Activity
-  
-<p>
-  <img align='left' src="https://github-readme-stats.vercel.app/api?username=LEEBONGHAK&theme=graywhite" height="200" width="400">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=octopus96" height="180" width="400">
+<p align=center>
+  <a href="https://velog.io/@octo__"><img src="https://img.shields.io/badge/Velog-6DB33F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@octo__"/></a>&nbsp
+  <a href="mailto:one.dlqhdgkr456@gmail.com"><img src="https://img.shields.io/badge/Gmail-F80000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/bonghaklee/"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/bonghaklee/"/></a><br>  
+  <a href="https://solved.ac/profile/octopus96"><img src="https://img.shields.io/badge/Solved.ac-6DB33F?style=flat-square&logoColor=white&&link=https://solved.ac/profile/octopus96"/></a>&nbsp
+  <a href="https://www.acmicpc.net/user/octopus96"><img src="https://img.shields.io/badge/BAEKJOON-000000?style=flat-square&logoColor=white&link=https://www.acmicpc.net/user/octopus96"/></a>
 </p>
 
-<br><br><br><br><br>
+<div align="center" style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LEEBONGHAK&theme=graywhite" height="200" width="400">
+</div>
+
+<div align="center" style="text-align:center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=octopus96" height="180" width="400">
+</div>
+<br>
+<div align="center" style="text-align:center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5erejjm004909lcjhtrjuni/stats?cursusId=21&coalitionId=85" alt="bolee's 42 stats" /></a>
+</div>
+
+<br><br><br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEBONGHAK&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=today&edge_flat=true"/></a>  
+</p>
+
