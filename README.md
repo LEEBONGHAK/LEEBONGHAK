@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 </div>
 
-## Techs
+<!-- ## Techs
 
 ### Languages
 
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 ### DB
 
-<!-- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather) -->
-<br><br><br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
+<br><br><br> -->
 
 ## Blog or Something
 
