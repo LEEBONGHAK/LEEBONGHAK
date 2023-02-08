@@ -85,5 +85,4 @@ Here are some ideas to get you started:
 </p>
 
 
-- [ ] 체크박스 테스트
 
