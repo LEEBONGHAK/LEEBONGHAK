@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=header&text=LeeBongHak😀&fontSize=70)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK})](https://github.com/anuraghazra/github-readme-stats)
 <!-- ## Techs
 
 ### Languages
