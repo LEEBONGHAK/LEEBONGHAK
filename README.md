@@ -71,8 +71,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center" style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=LEEBONGHAK&theme=graywhite" height="200" width="400">
 </div>
