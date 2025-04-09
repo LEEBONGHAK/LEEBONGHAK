@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=header&text=LeeBongHak😀&fontSize=70)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ## Techs
 
 ### Languages
@@ -67,6 +65,10 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/profile/octopus96"><img src="https://img.shields.io/badge/Solved.ac-6DB33F?style=flat-square&logoColor=white&&link=https://solved.ac/profile/octopus96"/></a>&nbsp
   <a href="https://www.acmicpc.net/user/octopus96"><img src="https://img.shields.io/badge/BAEKJOON-000000?style=flat-square&logoColor=white&link=https://www.acmicpc.net/user/octopus96"/></a>
 </p>
+
+<div align="center" style="text-align:center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center" style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=LEEBONGHAK&theme=graywhite" height="200" width="400">
