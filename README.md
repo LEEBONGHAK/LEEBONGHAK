@@ -66,9 +66,7 @@ Here are some ideas to get you started:
   <a href="https://www.acmicpc.net/user/octopus96"><img src="https://img.shields.io/badge/BAEKJOON-000000?style=flat-square&logoColor=white&link=https://www.acmicpc.net/user/octopus96"/></a>
 </p>
 
-<div align="center" style="text-align:center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBONGHAK)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=LEEBONGHAK&theme=graywhite" height="200" width="400">
